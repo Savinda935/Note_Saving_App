@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MADsharedPreference</string>
+    <string name="start">Start</string>
+    <string name="title">Enter Title</string>
+    <string name="note">Enter Note Content</string>
+    <string name="date">Enter Date (optional)</string>
+    <string name="save">Save Note</string>
+    <string name="display">Display Note</string>
+    <string name="update">Update Note</string>
+    <string name="delete">Delete Note</string>
+    <string name="notesdisplay">Notes will be displayed here</string>
+    <string name="welcome">Welcome to Notes App!</string>
+    <string name="dd">Easily create, update, and manage your notes.</string>
+    <string name="organize">Organize Your Thoughts</string>
+    <string name="and">Keep your notes organized and accessible anytime.</string>
+    <string name="get">Get Started!</string>
+    <string name="starts">Start taking notes and stay organized!</string>
+</resources>
