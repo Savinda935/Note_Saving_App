@@ -20,14 +20,6 @@ The **Note Saving App** is a simple and efficient mobile application developed u
 3. **Delete Notes**: Remove unnecessary notes.
 4. **Persistent Storage**: Notes are saved locally using SharedPreferences, ensuring they are retained even after closing the app.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/note-saving-app.git
-   ```
-2. Open the project in **Android Studio**.
-3. Build the project and run it on an emulator or a physical Android device.
-
 ## Usage
 1. Launch the app.
 2. Use the "Add Note" button to create a new note.
@@ -42,8 +34,6 @@ The **Note Saving App** is a simple and efficient mobile application developed u
 - Add categories and tags for better note organization.
 - Support for rich text formatting.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
